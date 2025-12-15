@@ -2,12 +2,13 @@
 'RCET 3371
 'FALL 2025
 'HVAC CONTROLLER
+'https://github.com/hollnoah/HVACController.git
 
 Imports System.IO.Ports
 Imports System.IO
 Imports System.Drawing
 
-'MUST PRESS QY@ BUTTONS 2 & 3 SIMULTANEOUSLY FOR COOLING, AND 3 & 5 SIMULTANEOUSLY FOR HEATING
+' ---------------------------MUST PRESS QY@ BUTTONS 2 & 3 SIMULTANEOUSLY FOR COOLING, AND 3 & 5 SIMULTANEOUSLY FOR HEATING--------------------------------------
 Public Class HVACController
 
     ' ---------------- HVAC Values ----------------
