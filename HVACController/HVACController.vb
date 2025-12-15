@@ -429,6 +429,7 @@ Public Class HVACController
         End Try
     End Sub
 
+
     ' ---------------- GUI Update ----------------
     Private Sub UpdateGUI()
         ' Time label updated by ClockTimer
